@@ -1,0 +1,7 @@
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.csproj.AssemblyReference.cache
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.AssemblyInfoInputs.cache
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.AssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.csproj.CoreCompileInputs.cache
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Task\obj\Debug\net5.0\Task.MvcApplicationPartsAssemblyInfo.cache

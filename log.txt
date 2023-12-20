@@ -1,0 +1,434 @@
+/TaskManager.POST started at 2023-12-20 12:21:08.007
+/TaskManager.POST ended at 284 ms. UserId: unknown
+/Task.GET started at 2023-12-20 12:21:08.390
+/Task.GET ended at 70 ms. UserId: 1
+/Task.POST started at 2023-12-20 12:21:13.410
+/Task.POST ended at 38 ms. UserId: 1
+/Task.GET started at 2023-12-20 12:21:13.456
+/Task.GET ended at 2 ms. UserId: 1
+/favicon.ico.GET started at 2023-12-20 12:32:17.012
+/favicon.ico.GET ended at 82 ms. UserId: unknown
+/TaskManager.POST started at 2023-12-20 12:32:23.813
+/TaskManager.POST ended at 133 ms. UserId: unknown
+/Task.GET started at 2023-12-20 12:32:23.994
+/Task.GET ended at 73 ms. UserId: 1
+/User.GET started at 2023-12-20 12:32:31.517
+/User.GET ended at 4 ms. UserId: 1
+/User/.GET started at 2023-12-20 12:32:36.845
+/User/.GET ended at 3 ms. UserId: 1
+/User.POST started at 2023-12-20 12:33:11.748
+/User.POST ended at 26 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:11.778
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 12:33:22.741
+/User/.DELETE ended at 4 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:22.752
+/User.GET ended at 3 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 12:33:24.339
+/User/.DELETE ended at 7 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:24.357
+/User.GET ended at 6 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 12:33:24.499
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:24.507
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 12:33:24.659
+/User/.DELETE ended at 4 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:24.701
+/User.GET ended at 6 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 12:33:24.820
+/User/.DELETE ended at 6 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:24.834
+/User.GET ended at 5 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 12:33:24.971
+/User/.DELETE ended at 5 ms. UserId: 1
+/User.GET started at 2023-12-20 12:33:24.986
+/User.GET ended at 6 ms. UserId: 1
+/Task/5.GET started at 2023-12-20 12:33:39.631
+/Task/5.GET ended at 4 ms. UserId: 1
+/Task.GET started at 2023-12-20 12:38:18.306
+/Task.GET ended at 2 ms. UserId: 1
+/User/.GET started at 2023-12-20 12:38:22.179
+/User/.GET ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 12:39:21.994
+/User.GET ended at 2 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 12:39:36.505
+/TaskManager.POST ended at 3 ms. UserId: unknown
+/Task.GET started at 2023-12-20 12:39:36.525
+/Task.GET ended at 3 ms. UserId: 2
+/User/.GET started at 2023-12-20 12:39:38.153
+/User/.GET ended at 4 ms. UserId: 2
+/User.GET started at 2023-12-20 12:39:40.073
+/User.GET ended at 2 ms. UserId: 2
+/User.GET started at 2023-12-20 12:39:44.216
+/User.GET ended at 2 ms. UserId: 2
+/TaskManager.POST started at 2023-12-20 13:00:31.674
+/TaskManager.POST ended at 604 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:03:20.223
+/Task.GET ended at 9 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:03:40.617
+/Task.GET ended at 80 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 13:20:21.686
+/TaskManager.POST ended at 8 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:22:47.568
+/Task.GET ended at 4 ms. UserId: 1
+/Task/1.GET started at 2023-12-20 13:24:12.039
+/Task/1.GET ended at 39 ms. UserId: 1
+/Task/2.GET started at 2023-12-20 13:24:20.274
+/Task/2.GET ended at 8 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:24:27.273
+/Task.GET ended at 3 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 13:24:36.787
+/Task/4.GET ended at 8 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 13:25:05.557
+/Task/4.GET ended at 3 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:25:53.838
+/Task.POST ended at 88 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:26:24.070
+/Task.POST ended at 6 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:26:51.567
+/Task.POST ended at 5 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:27:07.096
+/Task.POST ended at 3 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:27:42.379
+/Task.POST ended at 125 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:28:47.679
+/Task.POST ended at 3 ms. UserId: 1
+/Task.POST started at 2023-12-20 13:29:02.137
+/Task.POST ended at 15 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 13:29:17.635
+/Task/4.GET ended at 3 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:30:45.589
+/Task.GET ended at 7 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 13:31:32.702
+/Task/4.GET ended at 3 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 13:31:40.618
+/Task/4.GET ended at 3 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:31:59.561
+/Task/4.PUT ended at 38 ms. UserId: 1
+/Task/6.PUT started at 2023-12-20 13:32:24.809
+/Task/6.PUT ended at 5 ms. UserId: 1
+/Task/1.PUT started at 2023-12-20 13:33:13.315
+/Task/1.PUT ended at 3 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:33:33.722
+/Task/4.PUT ended at 15 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:34:23.273
+/Task/4.PUT ended at 3 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:34:43.053
+/Task/4.PUT ended at 3 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:36:48.357
+/Task/4.PUT ended at 3 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:36:55.016
+/Task/4.PUT ended at 3 ms. UserId: 1
+/Task.PUT started at 2023-12-20 13:37:09.998
+/Task.PUT ended at 3 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:37:18.590
+/Task/4.PUT ended at 14 ms. UserId: 1
+/Task/4.PUT started at 2023-12-20 13:37:38.389
+/Task/4.PUT ended at 119 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 13:38:11.633
+/Task/4.GET ended at 3 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:38:18.090
+/Task.GET ended at 8 ms. UserId: 1
+/Task/7.PUT started at 2023-12-20 13:38:41.295
+/Task/7.PUT ended at 7 ms. UserId: 1
+/Task/6.DELETE started at 2023-12-20 13:41:22.428
+/Task/6.DELETE ended at 77 ms. UserId: 1
+/Task/6.DELETE started at 2023-12-20 13:41:48.289
+/Task/6.DELETE ended at 7 ms. UserId: 1
+/User.GET started at 2023-12-20 13:43:02.738
+/User.GET ended at 6 ms. UserId: 1
+/User.GET started at 2023-12-20 13:43:27.456
+/User.GET ended at 3 ms. UserId: 1
+/User/1.GET started at 2023-12-20 13:44:14.154
+/User/1.GET ended at 11 ms. UserId: 1
+/User/1.GET started at 2023-12-20 13:44:24.307
+/User/1.GET ended at 3 ms. UserId: 1
+/User/1.GET started at 2023-12-20 13:44:49.138
+/User/1.GET ended at 3 ms. UserId: 1
+/User/1.GET started at 2023-12-20 13:45:10.463
+/User/1.GET ended at 85 ms. UserId: 1
+/User.POST started at 2023-12-20 13:45:55.053
+/User.POST ended at 9 ms. UserId: 1
+/User.POST started at 2023-12-20 13:46:18.807
+/User.POST ended at 143 ms. UserId: 1
+/User/8.DELETE started at 2023-12-20 13:47:48.303
+/User/8.DELETE ended at 9 ms. UserId: 1
+/User/8.DELETE started at 2023-12-20 13:48:28.861
+/User/8.DELETE ended at 36 ms. UserId: 1
+/User/8.DELETE started at 2023-12-20 13:48:34.723
+/User/8.DELETE ended at 9 ms. UserId: 1
+/User/7.DELETE started at 2023-12-20 13:48:57.650
+/User/7.DELETE ended at 5 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 13:52:13.268
+/TaskManager.POST ended at 4 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:52:13.289
+/Task.GET ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:14.938
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:16.523
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:16.530
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:17.170
+/User/.DELETE ended at 23 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:17.198
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:17.306
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:17.316
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:17.594
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:17.602
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:17.858
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:17.866
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.026
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.034
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.186
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.194
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.338
+/User/.DELETE ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.346
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.482
+/User/.DELETE ended at 10 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.497
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.634
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.645
+/User.GET ended at 22 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.770
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.778
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:18.938
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:18.946
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:19.042
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:19.049
+/User.GET ended at 5 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:19.226
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:19.234
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:19.346
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:19.353
+/User.GET ended at 2 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:52:24.148
+/Task.GET ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:26.643
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:52:28.266
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:52:28.310
+/User.GET ended at 2 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:53:19.946
+/Task.GET ended at 343 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:22.101
+/User.GET ended at 8 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:53:23.651
+/User/.DELETE ended at 4 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:23.662
+/User.GET ended at 3 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 13:53:45.100
+/TaskManager.POST ended at 26 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:53:45.143
+/Task.GET ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:46.471
+/User.GET ended at 33 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:53:47.899
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:47.907
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:53:48.547
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:48.555
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:53:48.706
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:48.720
+/User.GET ended at 18 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:53:48.834
+/User/.DELETE ended at 57 ms. UserId: 1
+/User.GET started at 2023-12-20 13:53:48.897
+/User.GET ended at 2 ms. UserId: 1
+/User/.GET started at 2023-12-20 13:53:58.699
+/User/.GET ended at 5 ms. UserId: unknown
+/User/.GET started at 2023-12-20 13:54:07.770
+/User/.GET ended at 3 ms. UserId: unknown
+/User/.GET started at 2023-12-20 13:54:18.694
+/User/.GET ended at 3 ms. UserId: unknown
+/User.GET started at 2023-12-20 13:54:22.229
+/User.GET ended at 3 ms. UserId: unknown
+/User/.GET started at 2023-12-20 13:54:26.002
+/User/.GET ended at 3 ms. UserId: unknown
+/User/.GET started at 2023-12-20 13:54:26.281
+/User/.GET ended at 2 ms. UserId: unknown
+/TaskManager.POST started at 2023-12-20 13:54:39.741
+/TaskManager.POST ended at 3 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:54:39.763
+/Task.GET ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:54:45.158
+/User.GET ended at 7 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:54:47.188
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:54:47.196
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:55:58.918
+/User/.DELETE ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:55:58.929
+/User.GET ended at 3 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:55:59.502
+/User/.DELETE ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:55:59.515
+/User.GET ended at 3 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:56:00.110
+/User/.DELETE ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:56:00.127
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:56:08.854
+/User/.DELETE ended at 88 ms. UserId: 1
+/User.GET started at 2023-12-20 13:56:08.953
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:56:09.574
+/User/.DELETE ended at 2 ms. UserId: 1
+/User.GET started at 2023-12-20 13:56:09.585
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:56:10.166
+/User/.DELETE ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:56:10.183
+/User.GET ended at 2 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:56:10.454
+/User/.DELETE ended at 25 ms. UserId: 1
+/User.GET started at 2023-12-20 13:56:10.487
+/User.GET ended at 3 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:56:55.941
+/Task.GET ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:57:05.986
+/User.GET ended at 3 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:57:55.962
+/User/.DELETE ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 13:57:55.974
+/User.GET ended at 3 ms. UserId: 1
+/User/.DELETE started at 2023-12-20 13:58:28.315
+/User/.DELETE ended at 719 ms. UserId: 1
+/User.GET started at 2023-12-20 13:58:29.058
+/User.GET ended at 62 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:58:29.647
+/Task.GET ended at 10 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:58:46.934
+/Task.GET ended at 15 ms. UserId: 1
+/Task.GET started at 2023-12-20 13:58:52.057
+/Task.GET ended at 3 ms. UserId: 1
+/favicon.ico.GET started at 2023-12-20 13:58:52.064
+/favicon.ico.GET ended at 2 ms. UserId: unknown
+/User.GET started at 2023-12-20 13:58:54.557
+/User.GET ended at 3 ms. UserId: 1
+/User/9.DELETE started at 2023-12-20 13:58:55.908
+/User/9.DELETE ended at 23 ms. UserId: 1
+/User.GET started at 2023-12-20 13:58:55.934
+/User.GET ended at 2 ms. UserId: 1
+/User/7.DELETE started at 2023-12-20 13:59:00.788
+/User/7.DELETE ended at 13 ms. UserId: 1
+/User.GET started at 2023-12-20 13:59:00.805
+/User.GET ended at 3 ms. UserId: 1
+/User.POST started at 2023-12-20 13:59:22.717
+/User.POST ended at 98 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 13:59:32.757
+/TaskManager.POST ended at 15 ms. UserId: unknown
+/Task.GET started at 2023-12-20 13:59:32.851
+/Task.GET ended at 61 ms. UserId: 1
+/User.POST started at 2023-12-20 13:59:39.357
+/User.POST ended at 6 ms. UserId: 1
+/User.GET started at 2023-12-20 13:59:39.367
+/User.GET ended at 2 ms. UserId: 1
+/User/.GET started at 2023-12-20 14:00:00.285
+/User/.GET ended at 21 ms. UserId: 1
+/Task.GET started at 2023-12-20 14:01:51.712
+/Task.GET ended at 4 ms. UserId: 1
+/User.GET started at 2023-12-20 14:01:53.999
+/User.GET ended at 3 ms. UserId: 1
+/User/7.DELETE started at 2023-12-20 14:01:55.638
+/User/7.DELETE ended at 6 ms. UserId: 1
+/User.GET started at 2023-12-20 14:01:55.650
+/User.GET ended at 2 ms. UserId: 1
+/User/6.DELETE started at 2023-12-20 14:01:56.390
+/User/6.DELETE ended at 313 ms. UserId: 1
+/User.GET started at 2023-12-20 14:01:56.706
+/User.GET ended at 2 ms. UserId: 1
+/User/6.DELETE started at 2023-12-20 14:01:59.222
+/User/6.DELETE ended at 6 ms. UserId: 1
+/User.GET started at 2023-12-20 14:01:59.232
+/User.GET ended at 2 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 14:18:52.784
+/TaskManager.POST ended at 5 ms. UserId: 1
+/TaskManager.POST started at 2023-12-20 14:19:08.966
+/TaskManager.POST ended at 54 ms. UserId: unknown
+/TaskManager.POST started at 2023-12-20 14:19:29.266
+/TaskManager.POST ended at 3 ms. UserId: unknown
+/TaskManager.POST started at 2023-12-20 14:19:53.047
+/TaskManager.POST ended at 5 ms. UserId: unknown
+/Task.GET started at 2023-12-20 14:21:01.325
+/Task.GET ended at 11 ms. UserId: 1
+/Task/4.GET started at 2023-12-20 14:22:03.802
+/Task/4.GET ended at 5 ms. UserId: 1
+/Task/6.GET started at 2023-12-20 14:22:25.090
+/Task/6.GET ended at 3 ms. UserId: 1
+/Task/6.GET started at 2023-12-20 14:22:35.437
+/Task/6.GET ended at 7 ms. UserId: 1
+/Task.GET started at 2023-12-20 14:22:42.135
+/Task.GET ended at 2 ms. UserId: 1
+/Task/7.GET started at 2023-12-20 14:22:48.523
+/Task/7.GET ended at 12 ms. UserId: 1
+/Task/7.GET started at 2023-12-20 14:23:03.788
+/Task/7.GET ended at 3 ms. UserId: 1
+/Task.POST started at 2023-12-20 14:23:55.206
+/Task.POST ended at 23 ms. UserId: 1
+/Task.POST started at 2023-12-20 14:24:04.546
+/Task.POST ended at 66 ms. UserId: 1
+/Task.POST started at 2023-12-20 14:24:24.402
+/Task.POST ended at 154 ms. UserId: 1
+/Task/8.PUT started at 2023-12-20 14:24:50.760
+/Task/8.PUT ended at 78 ms. UserId: 1
+/Task/8.PUT started at 2023-12-20 14:25:24.863
+/Task/8.PUT ended at 27 ms. UserId: 1
+/Task/8.PUT started at 2023-12-20 14:25:41.570
+/Task/8.PUT ended at 101 ms. UserId: 1
+/Task/8.DELETE started at 2023-12-20 14:26:37.251
+/Task/8.DELETE ended at 19 ms. UserId: 1
+/Task/7.DELETE started at 2023-12-20 14:27:02.164
+/Task/7.DELETE ended at 5 ms. UserId: 1
+/User.GET started at 2023-12-20 14:28:22.352
+/User.GET ended at 3 ms. UserId: 1
+/User.GET started at 2023-12-20 14:28:30.764
+/User.GET ended at 50 ms. UserId: 1
+/User.POST started at 2023-12-20 14:29:34.526
+/User.POST ended at 40 ms. UserId: 1
+/User.POST started at 2023-12-20 14:30:07.472
+/User.POST ended at 5 ms. UserId: 1
+/User/7.DELETE started at 2023-12-20 14:30:56.508
+/User/7.DELETE ended at 3 ms. UserId: 1
+/User/7.DELETE started at 2023-12-20 14:31:00.983
+/User/7.DELETE ended at 2 ms. UserId: 1
+/User/6.DELETE started at 2023-12-20 14:31:34.211
+/User/6.DELETE ended at 5 ms. UserId: 1
+/favicon.ico.GET started at 2023-12-20 14:35:56.551
+/favicon.ico.GET ended at 6 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-20 14:36:10.323
+/favicon.ico.GET ended at 4 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-20 14:36:19.027
+/favicon.ico.GET ended at 2 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-20 14:38:49.300
+/favicon.ico.GET ended at 3 ms. UserId: unknown

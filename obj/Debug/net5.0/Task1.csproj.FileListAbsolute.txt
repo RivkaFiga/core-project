@@ -1,0 +1,272 @@
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\appsettings.json
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\KsPizza.exe
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\KsPizza.deps.json
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.json
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.dev.json
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\KsPizza.dll
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\KsPizza.pdb
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.csproj.AssemblyReference.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfoInputs.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfo.cs
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CoreCompileInputs.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\scopedcss\bundle\KsPizza.styles.css
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.Manifest.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.RazorTargetAssemblyInfo.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CopyComplete
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.dll
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\refint\KsPizza.dll
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.pdb
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\KsPizza.genruntimeconfig.cache
+C:\Users\malky_s\Downloads\KsPizza\obj\Debug\net5.0\ref\KsPizza.dll
+C:\Users\malky_s\Downloads\KsPizza\bin\Debug\net5.0\Data\pizza.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\appsettings.Development.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\appsettings.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\Data\pizza.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\pizza.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.exe
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.deps.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.dev.json
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\ref\KsPizza.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.pdb
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfo.cs
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.Manifest.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.xml
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\scopedcss\bundle\KsPizza.styles.css
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.RazorTargetAssemblyInfo.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CopyComplete
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\ref\KsPizza.dll
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.pdb
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\KsPizza.genruntimeconfig.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\bin\Debug\net5.0\KsPizza.StaticWebAssets.xml
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.Pack.cache
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\msbuild.KsPizza.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\msbuild.build.KsPizza.props
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.KsPizza.props
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.KsPizza.props
+Z:\mora\זילברברג\2023-10-31\KsPizza\obj\Debug\net5.0\refint\KsPizza.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\appsettings.Development.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\appsettings.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\Data\pizza.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\pizza.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\KsPizza.exe
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\KsPizza.deps.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.dev.json
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\KsPizza.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\ref\KsPizza.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\KsPizza.pdb
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfo.cs
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.Manifest.cache
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.xml
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\scopedcss\bundle\KsPizza.styles.css
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.RazorTargetAssemblyInfo.cache
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CopyComplete
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\ref\KsPizza.dll
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.pdb
+Z:\mora\זילברברג\‏‏2023-10-31 - עותק\KsPizza\obj\Debug\net5.0\KsPizza.genruntimeconfig.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\appsettings.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\Data\pizza.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\pizza.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\KsPizza.exe
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\KsPizza.deps.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\KsPizza.runtimeconfig.dev.json
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\KsPizza.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\ref\KsPizza.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\KsPizza.pdb
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.csproj.AssemblyReference.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfoInputs.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.AssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CoreCompileInputs.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.Manifest.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\staticwebassets\KsPizza.StaticWebAssets.xml
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\scopedcss\bundle\KsPizza.styles.css
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.RazorTargetAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.csproj.CopyComplete
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\ref\KsPizza.dll
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.pdb
+Z:\B\פיגה רבקה\core\HW\Task\KsPizza\obj\Debug\net5.0\KsPizza.genruntimeconfig.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\appsettings.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Data\task.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\task.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Task1.exe
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Task1.deps.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פיגה רבקה\core\HW\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.Manifest.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.xml
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\scopedcss\bundle\Task1.styles.css
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.RazorTargetAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.csproj.CopyComplete
+Z:\B\פיגה רבקה\core\HW\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\appsettings.json
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Data\task.json
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Task1.exe
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Task1.deps.json
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.Manifest.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.xml
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\scopedcss\bundle\Task1.styles.css
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.RazorTargetAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.csproj.CopyComplete
+Z:\B\פיגה רבקה\core\HW\Taskss\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\appsettings.json
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Data\task.json
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Task1.exe
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Task1.deps.json
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.Manifest.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.xml
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\scopedcss\bundle\Task1.styles.css
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.RazorTargetAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.csproj.CopyComplete
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\project\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\appsettings.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Data\task.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Data\user.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Task1.exe
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Task1.deps.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Task1.pdb
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.Manifest.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\scopedcss\bundle\Task1.styles.css
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.RazorTargetAssemblyInfo.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.csproj.CopyComplete
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\bin\Debug\net5.0\ref\Task1.dll
+Z:\B\פיגה רבקה\core\HW\project\final\Task1\obj\Debug\net5.0\staticwebassets\Task1.StaticWebAssets.xml

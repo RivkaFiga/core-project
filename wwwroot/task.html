@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/site.css">
+    <title>login</title>
+</head>
+<body>
+    <div id="taskCrud">
+        <div>
+            <form action="javascript:void(0);" onsubmit="logOut()">
+                <input type="submit" value="logOut">
+            </form>
+        </div>
+
+    <h1>TASK CURD</h1>
+    <div id="taskCrud">
+        <div>
+            <h3>Add</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+                <input type="text" id="add-name" placeholder="New Task">
+                <input type="submit" value="Add">
+            </form>
+        </div>
+
+        <div id="editForm">
+            <h3>Edit</h3>
+            <form action="javascript:void(0);">
+                <input type="checkbox" id="edit-status">
+                <input type="text" id="edit-name" class="edit-name">
+                <input type="submit" value="Save" id="save">
+                <a id="close" aria-label="Close" onclick="hidden()">&#10006;</a>
+
+            </form>
+        </div>
+        <div>
+            <b id="counter"></b>
+            <table>
+                <tr>
+                    <th>ID</th>
+                    <th>is done?</th>
+                    <th>name</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tbody id="tasks"></tbody>
+            </table>
+        </div>
+        <div>
+            <h3>Get By Id</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="getItemById()">
+                <input type="text" id="get-item" placeholder="task id">
+                <input type="submit" value="get">
+            </form>
+            <tr>
+                <h2 id="name"></h2>
+                <h2 id="status"></h2>
+            </tr>
+        </div>
+    </div>
+
+    <h1>USER CURD</h1>
+    <div id="manager">
+        <div>
+            <h3>Get All Users</h3>
+            <form action="javascript:void(0);" method="GET" onsubmit="getAllUsers()">
+                <input type="submit" value="getAllUsers">
+            </form>
+            <table class="tbl">
+                <tr>
+                    <th>id</th>
+                    <th>Name</th>
+                    <th>Password</th>
+                    <th>delete</th>
+                </tr>
+                <tbody id="Users"></tbody>
+            </table>
+        </div>
+        <!-- <div>
+            <h3>Get My User</h3>
+            <form action="javascript:void(0);" method="GET" onsubmit="getMyUser()">
+                <input type="submit" value="getMyUser">
+            </form>
+            <table id="tbl">
+            </table>
+        </div> -->
+        <div>
+            <h3>Add New User</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="addUser()">
+                <input type="text" id="add-user-name" placeholder="enter new user">
+                <input type="password" id="add-password" placeholder="enter new password">
+                <input type="submit" value="Add">
+            </form>
+        </div>
+
+
+    </div>
+
+
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+    </script>
+</body>
+</html>
